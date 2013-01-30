@@ -1,3 +1,0 @@
-(ns exclj.math-xls-test
-  (:use clojure.test
-        exclj.math_xls))
